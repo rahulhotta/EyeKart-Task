@@ -1,0 +1,29 @@
+
+.ditailsPage__container{
+    background-color: lightgoldenrodyellow;
+    width: 100dvw;
+    height: 100dvh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.DetailsCard__container{
+    padding-top: 80px;
+    width: clamp(300px, 80vw, 600px);
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 10px 20px;
+    box-shadow: 5px 5px 10px gray;
+}
+
+.Borrower__heading{
+    border-bottom: 2px solid black;
+}
+
+.Book_details__heading{
+    border-bottom: 2px solid black;
+}

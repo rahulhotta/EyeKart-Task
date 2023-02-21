@@ -1,0 +1,16 @@
+.NavBar__container{
+    position: fixed;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 100dvw;
+    border-bottom: 2px solid black;
+    background-color: rgb(74, 74, 74);
+    color: white;
+    height: 60px;
+}
+
+.NavBar__logo{
+    color: white;
+    text-decoration: none;
+}
